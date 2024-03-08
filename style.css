@@ -1,0 +1,46 @@
+   #square {
+      width: 121px;
+      height: 121px;
+      background: rgb(195, 0, 149);
+      position: absolute;
+      left: 0;
+      top: 400;
+    }
+
+    .moon{
+      background: blue;
+      color:white;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      text-align: center;
+    }
+    
+    .power{
+background-color: rgb(233, 85, 0);
+color: aliceblue;
+font-size: larger;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+    }
+
+    #third{
+      background: rgb(127, 5, 193);
+      color:white;
+      text-align: center;
+    }
+    .stuff{
+        background-color: blueviolet;
+        color: aliceblue;
+    }
+
+    body{
+        background-color: rgb(42, 140, 180);
+    }
+    #circle {
+        width: 100px;
+        height: 100px;
+        background-color: blue;
+        position: absolute;
+        border-radius: 50%;
+    }
+    
+ 
